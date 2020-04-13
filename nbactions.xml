@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-Run Package</actionName>
+            <displayName>Run Package</displayName>
+            <goals>
+                <goal>package</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-Run Mave Package</actionName>
+            <displayName>Run Mave Package</displayName>
+            <goals>
+                <goal>package</goal>
+            </goals>
+        </action>
+    </actions>
